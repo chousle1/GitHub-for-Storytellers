@@ -42,7 +42,7 @@ Creating the repository on GitHub gives you an online copy. Cloning the reposito
 1. On the repository page, click the green **Code** button. ![](images/code-button.PNG)
 2. Under **HTTPS**, copy the repository URL.
 3. Open Visual Studio Code.
-4. Open the **Source Control** panel on the left.
+4. Open the **Source Control** panel on the left. ![](images/source-control-icon.PNG)
 5. Select **Clone Repository**.
 6. Paste the repository URL when prompted.
 7. Select a folder on your computer where you want to store the repository.

@@ -10,6 +10,14 @@ This guide uses a small set of folders based on information that Game Masters ty
 
 Your repository will contain folders for the major types of information you need to track. These folders should be created at the top level of the repository, alongside `README.md`.
 
+>Folders can contain additional folders when a category becomes too large to manage easily.
+>To create a subfolder in Visual Studio Code, select the folder that will contain it, then select the **New Folder** icon and enter the new folder name.
+>For example, a campaign with many locations might eventually use:
+>- `locations/`
+>   - `cities/`
+  >   - `dungeons/`
+  >   - `wilderness/`
+
 ### Create the folders in Visual Studio Code
 
 1. Open the **Explorer** panel on the left side of Visual Studio Code. ![](images/explorer-icon.PNG)
@@ -80,6 +88,9 @@ Store notes or summaries from individual game sessions. These files provide a ch
 
 **`items/`**  
 Store information about significant objects such as artifacts, named weapons, important documents, or plot-related equipment.
+
+**`images/`**\
+Images may be useful for character portraits, maps, important items, faction symbols, or other visual information.
 
 ## 3. Create Markdown Files
 
@@ -182,6 +193,37 @@ A session file might use:
 Templates do not need to capture every possible detail. Their purpose is to give repeated notes a predictable structure and reduce the amount of time spent deciding how each new file should be organized.
 
 The example campaign included with this guide provides sample files and templates that can be adapted to fit your own campaign.
+
+### Add an Image to Your Repository
+
+Store campaign images in the `images` folder so that they remain organized separately from your Markdown files.
+
+To add an existing image:
+
+1. Open the **Explorer** panel in Visual Studio Code.
+2. Locate the `images` folder in your repository.
+3. Locate the image on your computer using Windows File Explorer.
+4. Drag the image from Windows File Explorer into the `images` folder in Visual Studio Code.
+
+The image should now appear inside the `images` folder in the Explorer panel.
+
+Use clear file names that identify the image, such as:
+
+- `captain-mira-vale.png`
+- `blackwater-port-map.jpg`
+- `sunken-crown.png`
+
+### Display an Image in a Markdown File
+
+Once the image is stored in the repository, use the following Markdown syntax to display it:
+
+`![Description of the image](path-to-image.png)`
+
+For example, an NPC file stored in `non-player-characters` could display a portrait stored in the `images` folder:
+
+`![Portrait of Captain Mira Vale](../images/captain-mira-vale.png)`
+
+The text inside the brackets describes the image and should briefly explain what the image contains.
 
 ## Check Your Work
 

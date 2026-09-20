@@ -32,7 +32,7 @@ Below are some core terms and concepts used throughout this guide:
 
 **Links:** Markdown links connect related files. For example, a session summary can link directly to the characters and locations that appeared during that session. This allows campaign information to function as a connected system rather than a collection of isolated documents.
 
-**Commits:** A commit implements a set of changes made to the repository. Commits create checkpoints in the project's history, allowing you to see when information was added or changed.
+**Commits:** A commit records a set of changes made to the repository. Commits create checkpoints in the project's history, allowing you to see when information was added or changed.
 
 **Local and remote copies:** When a repository is cloned, a copy exists on your computer while another copy remains on GitHub. You can edit the local files in Visual Studio Code, commit those changes, and then sync them with the copy stored on GitHub.
 

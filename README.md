@@ -1,7 +1,7 @@
 # GitHub for Storytellers
 GitHub for Storytellers is a beginner-friendly guide for using GitHub to organize tabletop roleplaying game (TTRPG) campaign notes.
 
-Game Masters often accumulate notes across word-processing doucments, cloud storage, notebooks, and premium campaign-management tools. As a campaign grows, information about characters, locations, factions, and previous sessions can become difficult to locate and maintain. This guide presents a lightweight system for storing that information in a structured GitHub repository.
+Game Masters often accumulate notes across word-processing documents, cloud storage, notebooks, and premium campaign-management tools. As a campaign grows, information about characters, locations, factions, and previous sessions can become difficult to locate and maintain. This guide presents a lightweight system for storing that information in a structured GitHub repository.
 
 ## Who This Guide Is For
 This guide is primarily intended for TTRPG Game Masters who are comfortable with basic digital file management but have little or no experience with GitHub or Markdown. The same organizational approach may also be useful for fiction writers managing characters, locations, and other story information.

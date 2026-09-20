@@ -1,1 +1,1 @@
-# organize-your-notes
+# Organize Your Notes

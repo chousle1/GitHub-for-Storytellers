@@ -18,7 +18,7 @@ This guide assumes that you are already signed in to GitHub in your web browser.
 ## 1. Create a Repository on GitHub
 
 1. Open GitHub in your web browser.
-2. Select the green "New" button in the upper-left corner of the page. ![](images/new-button.PNG)
+2. Select the green "New" button in the upper-left corner of the page. ![New Button](images/new-button.PNG)
 3. In the "Repository name" field, enter a name for your campaign repository.
 
    Choose a name that clearly identifies the campaign or story. For example:
@@ -39,10 +39,10 @@ Your new repository should open automatically and display a `README.md` file.
 
 Creating the repository on GitHub gives you an online copy. Cloning the repository creates a local copy that you can edit on your computer.
 
-1. On the repository page, click the green **Code** button. ![](images/code-button.PNG)
+1. On the repository page, click the green **Code** button. ![Code Button](images/code-button.PNG)
 2. Under **HTTPS**, copy the repository URL.
 3. Open Visual Studio Code.
-4. Open the **Source Control** panel on the left. ![](images/source-control-icon.PNG)
+4. Open the **Source Control** panel on the left. ![Source Control Icon](images/source-control-icon.PNG)
 5. Select **Clone Repository**.
 6. Paste the repository URL when prompted.
 7. Select a folder on your computer where you want to store the repository.

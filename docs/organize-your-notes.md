@@ -6,21 +6,13 @@ The goal is not to create a folder for every possible type of information. The g
 
 This guide uses a small set of folders based on information that Game Masters typically need to track during a campaign.
 
-## 1. Create Your Folder Structure
+## Create Your Folder Structure
 
 Your repository will contain folders for the major types of information you need to track. These folders should be created at the top level of the repository, alongside `README.md`.
 
->Folders can contain additional folders when a category becomes too large to manage easily.
->To create a subfolder in Visual Studio Code, select the folder that will contain it, then select the **New Folder** icon and enter the new folder name.
->For example, a campaign with many locations might eventually use:
->- `locations/`
->   - `cities/`
-  >   - `dungeons/`
-  >   - `wilderness/`
-
 ### Create the folders in Visual Studio Code
 
-1. Open the **Explorer** panel on the left side of Visual Studio Code. ![](images/explorer-icon.PNG)
+1. Open the **Explorer** panel on the left side of Visual Studio Code. ![Explorer Icon](images/explorer-icon.PNG)
 
 2. Locate the name of your repository at the top of the Explorer panel.
 
@@ -58,10 +50,18 @@ When finished, the Explorer panel should contain the following folders and files
 
 This structure is intended as a starting point rather than a complete list of everything a Game Master may need to track. Add, remove, or rename folders to match the needs of your campaign.
 
+>Folders can contain additional folders when a category becomes too large to manage easily.
+>To create a subfolder in Visual Studio Code, select the folder that will contain it, then select the **New Folder** icon and enter the new folder name.
+>For example, a campaign with many locations might eventually use:
+>- `locations/`
+>   - `cities/`
+  >   - `dungeons/`
+  >   - `wilderness/`
+
 > **Why aren't my empty folders appearing on GitHub?**  
 > Git tracks files rather than empty folders. A newly created folder may appear in Visual Studio Code but will not appear in Source Control or on GitHub until it contains at least one file. This is normal. Once you create a Markdown note inside the folder, the folder will be included with that file when you commit and sync your changes.
 
-## 2. Decide What Belongs in Each Folder
+## Decide What Belongs in Each Folder
 
 Each folder should represent a recognizable type of campaign information.
 
@@ -92,13 +92,13 @@ Store information about significant objects such as artifacts, named weapons, im
 **`images/`**\
 Images may be useful for character portraits, maps, important items, faction symbols, or other visual information.
 
-## 3. Create Markdown Files
+## Create Markdown Files
 
 Each individual topic in your repository will be stored as a Markdown file.
 
 To create a Markdown file in Visual Studio Code:
 
-1. Open the **Explorer** panel. ![](images/explorer-icon.PNG)
+1. Open the **Explorer** panel. ![Explorer Icon](images/explorer-icon.PNG)
 2. Select the folder where you want to create the note.
 3. Hover over the folder name and select the **New File** icon.
 4. Enter a descriptive file name followed by `.md`.
@@ -116,7 +116,7 @@ The `.md` extension identifies the file as Markdown.
 > ### Important Note: Create One File for One Topic
 > Whenever possible, create a separate Markdown file for each topic instead of storing several unrelated pieces of information in one document.
 
-## 4. Use Consistent File Names
+## Use Consistent File Names
 
 Use clear and predictable file names throughout the repository.
 
@@ -138,7 +138,7 @@ the-missing-caravan.md
 
 Consistent file names make the repository easier to scan and make links between files easier to create.
 
-## 5. Link Related Information
+## Link Related Information
 
 Markdown links allow you to connect information stored in different files.
 
@@ -154,7 +154,7 @@ The `..` moves up one folder from `sessions`, and the rest of the path identifie
 
 You do not need to link every mention of a character, location, or faction. Add links when they make related information easier to locate.
 
-## 6. Use Simple Templates for Repeated Notes
+## Use Simple Templates for Repeated Notes
 
 Some types of information are easier to maintain when they use a consistent structure.
 
@@ -194,7 +194,7 @@ Templates do not need to capture every possible detail. Their purpose is to give
 
 The example campaign included with this guide provides sample files and templates that can be adapted to fit your own campaign.
 
-### Add an Image to Your Repository
+## Add an Image to Your Repository
 
 Store campaign images in the `images` folder so that they remain organized separately from your Markdown files.
 

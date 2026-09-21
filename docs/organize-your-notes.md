@@ -192,8 +192,6 @@ A session file might use:
 
 Templates do not need to capture every possible detail. Their purpose is to give repeated notes a predictable structure and reduce the amount of time spent deciding how each new file should be organized.
 
-The example campaign included with this guide provides sample files and templates that can be adapted to fit your own campaign.
-
 ## Add an Image to Your Repository
 
 Store campaign images in the `images` folder so that they remain organized separately from your Markdown files.

@@ -1,3 +1,6 @@
+# Create and Connect Your Notes
+Once your campaign information is organized, you can use links, templates, and images to make individual notes easier to navigate and reuse.
+
 ## Link Related Information
 
 Markdown links allow you to connect information stored in different files.
@@ -83,14 +86,6 @@ For example, an NPC file stored in `non-player-characters` could display a portr
 
 The text inside the brackets describes the image and should briefly explain what the image contains.
 
-## Check Your Work
-
-Before continuing, confirm that:
-
-- Your campaign information is divided into a manageable number of folders.
-- Folder and file names follow a consistent naming pattern.
-- Individual files contain one clearly identifiable topic.
-- Related notes can be connected using Markdown links.
 
 Your repository is now ready to store campaign information as the story develops.
 

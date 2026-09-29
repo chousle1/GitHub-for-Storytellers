@@ -31,7 +31,7 @@ Set up a repository and create the basic files and folders you will use to store
 
 ### [Organize Your Notes](docs/organize-your-notes.md)
 
-Develop a consistent structure for characters, locations, factions, sessions, and other campaign information, and learn how to connect related notes with Markdown links.
+Develop a consistent structure for characters, locations, factions, sessions, and other campaign information.
 
 ### [Create and Connect Your Notes](docs/create-and-connect-your-notes.md)
 

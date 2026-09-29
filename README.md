@@ -15,6 +15,7 @@ By the end of this guide, you will be able to:
 - Create a GitHub repository for a campaign or story.
 - Organize campaign information into folders and Markdown files.
 - Link related notes so information is easier to navigate.
+- Use simple templates and images to support campaign notes.
 - Update and maintain your repository after a game session.
 - Identify and correct common problems such as broken links, incorrect file paths, and duplicate information.
 
@@ -31,6 +32,10 @@ Set up a repository and create the basic files and folders you will use to store
 ### [Organize Your Notes](docs/organize-your-notes.md)
 
 Develop a consistent structure for characters, locations, factions, sessions, and other campaign information, and learn how to connect related notes with Markdown links.
+
+### [Create and Connect Your Notes](docs/create-and-connect-your-notes.md)
+
+Learn how to connect related information with Markdown links, use simple templates for repeated notes, and add images to your repository.
 
 ### [Update Notes After a Session](docs/session-workflow.md)
 

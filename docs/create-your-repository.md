@@ -84,7 +84,7 @@ A commit records the changes you have made to the repository.
 3. Select **Commit**.
 
 > **If Git asks you to identify yourself:**  
-> Git may require a username and email address before your first commit. From the Visual Studio Code menu (typically on the top left), select Terminal > New Terminal., and enter:
+> Git may require a username and email address before your first commit. From the Visual Studio Code menu (typically on the top left), select Terminal > New Terminal and enter:
 >
 > `git config --global user.name "Your Name"`
 >
